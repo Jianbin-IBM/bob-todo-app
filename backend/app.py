@@ -212,8 +212,8 @@ def health_check():
 
 if __name__ == '__main__':
     print("Starting Flask Todo API server...")
-    print("Server running on http://localhost:5000")
-    print("API endpoints available at http://localhost:5000/api/todos")
-    app.run(debug=True, port=5000)
+    print("Server running on http://localhost:5001")
+    print("API endpoints available at http://localhost:5001/api/todos")
+    app.run(debug=True, port=5001)
 
 # Made with Bob

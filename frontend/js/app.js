@@ -31,7 +31,7 @@
  * EXAMPLE: If the backend moves to https://api.example.com, we only need
  * to change this one line instead of updating it everywhere in the code.
  */
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'http://localhost:5001/api';
 
 // ============================================================================
 // SECTION 2: STATE MANAGEMENT
